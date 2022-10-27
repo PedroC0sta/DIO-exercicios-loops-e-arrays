@@ -5,8 +5,10 @@ public class Loops {
     // nota.verificarNota();
     // Login login = new Login();
     // login.verificarLogin();
-    Forms forms = new Forms();
-    forms.validarForms();
+    // Forms forms = new Forms();
+    // forms.validarForms();
+    // Comparador comparador = new Comparador();
+    // comparador.calcularCrescimentoPopulacional();
   }
 
 }
